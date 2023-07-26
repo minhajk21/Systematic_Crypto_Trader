@@ -1,5 +1,7 @@
 # Systematic Crypto Trader
 
+![Static Badge](https://img.shields.io/badge/Python-3.10-blue)
+
 Systematic trading algorithm for crypto linked futures on the Binance exchange.
 
 ## Installation
