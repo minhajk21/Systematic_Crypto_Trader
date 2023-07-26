@@ -4,9 +4,11 @@
 
 Systematic trading algorithm for crypto linked futures on the Binance exchange.
 
+
 ## Installation
 
 Please clone this repository.
+
 
 ## Usage
 
@@ -56,11 +58,13 @@ leverage = 2
 callbackRate = 0.5
 ```
 
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
 
 ## License
 
